@@ -12,7 +12,7 @@
           Where education and excellence meet to shape the future.
         </p>
   
-        <a href="/" class=" bg-blue-500 py-2 px-4 text-base sm:text-lg font-semibold text-white hover:text-gray-200  rounded-full
+        <a href="/" class=" bg-indigo-600 py-2 px-4 text-base sm:text-lg font-semibold text-white hover:text-gray-200  rounded-full
     " >
           Explore Our Programs
         </a>

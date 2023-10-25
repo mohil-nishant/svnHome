@@ -7,7 +7,7 @@
     }
 </script>
 
-<nav class="bg-blue-500 p-2">
+<nav class="bg-indigo-600 p-2">
     <div class="container mx-auto flex justify-between items-center">
         <a href="/" class="text-white text-2xl font-extrabold">SVN</a>
         <div class="hidden md:flex space-x-4">
