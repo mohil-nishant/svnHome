@@ -1,4 +1,4 @@
-<div class="max-w-screen-md mx-auto p-6 bg-white shadow-lg rounded-lg">
+<div class="max-w-screen-md mx-auto p-6 bg-neutral-100 shadow-lg rounded-lg mt-3">
     <h2 class="text-2xl font-semibold text-gray-800 mb-4">Notice Board</h2>
     <ul class="divide-y divide-gray-200">
       <!-- Notice 1 -->
@@ -8,7 +8,7 @@
             <h3 class="text-lg font-semibold text-blue-600">Important Update</h3>
             <p class="text-sm text-gray-600">Posted on September 15, 2023</p>
           </div>
-          <a href="#" class="text-blue-600 hover:underline">Read More</a>
+          <a href="/" class="text-blue-600 hover:underline">Read More</a>
         </div>
         <p class="text-gray-700 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
       </li>
@@ -20,7 +20,7 @@
             <h3 class="text-lg font-semibold text-blue-600">Back-to-School Event</h3>
             <p class="text-sm text-gray-600">Posted on August 28, 2023</p>
           </div>
-          <a href="#" class="text-blue-600 hover:underline">Read More</a>
+          <a href="/" class="text-blue-600 hover:underline">Read More</a>
         </div>
         <p class="text-gray-700 mt-2">Join us for an exciting back-to-school event on September 10th...</p>
       </li>
